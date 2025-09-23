@@ -5,9 +5,9 @@
 
 ### 🚀 Обо мне
 
-- 🔹 Специализируюсь на **Vue, JavaScript/TypeScript, Node.js и MySQL**
-- 🔹 Опыт в создании **REST API**, авторизации через **JWT** и работе с **Sequelize**
-- 🔹 Открыт для **заказчиков** и **работодателей**
+🔹 Специализируюсь на **Vue, JavaScript/TypeScript, Node.js и MySQL**<br>
+🔹 Опыт в создании **REST API**, авторизации через **JWT** и работе с **Sequelize**<br>
+🔹 Открыт для **заказчиков** и **работодателей**<br>
 
 ---
 
@@ -29,10 +29,6 @@
 [![html](https://skillicons.dev/icons?i=html)](#)
 [![css](https://skillicons.dev/icons?i=css)](#)
 [![Insomnia](assets/icons/Insomnia.svg)](https://insomnia.rest/)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,insomnia" />
-</p>
 
 ---
 
