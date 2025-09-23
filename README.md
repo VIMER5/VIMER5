@@ -15,41 +15,13 @@
 
 **Основное (Core stack):**<br>
 [![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-
-<p>
-
-  <a href="" target="_blank" style="text-decoration: none;">
-    <img src="" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://learn.javascript.ru/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://nodejs.org/en" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://sequelize.org" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=sequelize" />
-  </a>
-  <a href="https://www.jwt.io/" target="_blank" style="text-decoration: none;">
-    <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" />
-  </a>
-</p>
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JS](https://skillicons.dev/icons?i=js)](https://learn.javascript.ru/)
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![sequelize](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org)
+[![JWT](assets/icons/Jsonwebtokens.svg)](https://www.jwt.io/)
 
 **Дополнительно (Tools & Others):**
 
