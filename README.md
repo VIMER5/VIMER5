@@ -23,11 +23,17 @@
 [![sequelize](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org)
 [![JWT](assets/icons/Jsonwebtokens.svg)](https://www.jwt.io/)
 
-**Дополнительно (Tools & Others):**
+**Дополнительно (Tools & Others):**<br><br>
+[![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![html](https://skillicons.dev/icons?i=html)](#)
+[![css](https://skillicons.dev/icons?i=css)](#)
+[![Insomnia](assets/icons/Insomnia.svg)](https://insomnia.rest/)
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,html,css,insomnia" />
 </p>
+
 ---
 
 ### 🌟 Избранные проекты
