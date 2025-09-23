@@ -19,6 +19,11 @@
   <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql,sequelize" />
   <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" /><br>Vue
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /><br>TypeScript
+  <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" /><br>JWT
+</p>
 
 **Дополнительно (Tools & Others):**
 
