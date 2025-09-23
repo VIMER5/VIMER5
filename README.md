@@ -14,7 +14,7 @@
 **Основное (Core stack):**
 <p>
   <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql" />
-  <img src="https://skillicons.dev/icons?i=sequelize,jwt" />
+  <img src="https://skillicons.dev/icons?i=sequelize,JWT" />
 </p>
 
 **Дополнительно (Tools & Others):**
