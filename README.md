@@ -16,28 +16,28 @@
 **Основное (Core stack):**
 
 <p>
-  <a href="https://vuejs.org/" target="_blank" >
+  <a href="https://vuejs.org/" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=vue" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-  <a href="https://learn.javascript.ru/" target="_blank">
+  <a href="https://learn.javascript.ru/" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://nodejs.org/en" target="_blank">
+  <a href="https://nodejs.org/en" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=express" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-  <a href="https://sequelize.org" target="_blank">
+  <a href="https://sequelize.org" target="_blank" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=sequelize" />
   </a>
-  <a href="https://www.jwt.io/" target="_blank">
+  <a href="https://www.jwt.io/" target="_blank" style="text-decoration: none">
     <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" />
   </a>
 </p>
