@@ -60,7 +60,7 @@
 
 ### 🐍 Анимация активности
 
-![Snake animation](https://github.com/VIMER/VIMER/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VIMER5/VIMER5/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
