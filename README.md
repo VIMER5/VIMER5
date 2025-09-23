@@ -5,7 +5,7 @@
 
 ### 🚀 Обо мне
 
-- 🔹 Специализируюсь на **Vue, TypeScript, Node.js и MySQL**
+- 🔹 Специализируюсь на **Vue, JavaScript/TypeScript, Node.js и MySQL**
 - 🔹 Опыт в создании **REST API**, авторизации через **JWT** и работе с **Sequelize**
 - 🔹 Открыт для **заказчиков** и **работодателей**
 
@@ -66,10 +66,10 @@
 
 ### 🐍 Анимация активности
 
-![Snake animation](https://github.com/VIMER/VIMER/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VIMER5/VIMER5/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 📬 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/The_crazy_fun)
