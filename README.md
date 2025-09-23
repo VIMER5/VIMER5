@@ -14,9 +14,9 @@
 ### 🛠️ Стек технологий
 
 **Основное (Core stack):**
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 
 <p>
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 
   <a href="https://vuejs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=vue" />
