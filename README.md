@@ -4,6 +4,7 @@
 ---
 
 ### 🚀 Обо мне
+
 - 🔹 Специализируюсь на **Vue, TypeScript, Node.js и MySQL**
 - 🔹 Опыт в создании **REST API**, авторизации через **JWT** и работе с **Sequelize**
 - 🔹 Открыт для **заказчиков** и **работодателей**
@@ -11,16 +12,19 @@
 ---
 
 ### 🛠️ Стек технологий
+
 **Основное (Core stack):**
+
 <p>
   <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql" />
-  <img src="https://skillicons.dev/icons?i=sequelize,JWT" />
+  <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" />
   <br/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
   <img src="https://img.shields.io/badge/bcryptjs-orange?style=for-the-badge" />
 </p>
 
 **Дополнительно (Tools & Others):**
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,html,css,postman" />
 </p>
@@ -28,14 +32,16 @@
 
 ### 🌟 Избранные проекты
 
-#### 🔹 Rehub  
+#### 🔹 Rehub
+
 Многофункциональная веб-платформа.  
 **Стек:** Vue, Node.js, Express, Sequelize, MySQL  
 [➡️ Репозиторий](#) | [🌍 Демо](#)
 
 ---
 
-#### 🔹 Domus  
+#### 🔹 Domus
+
 Сервис для управления недвижимостью.  
 **Стек:** Vue, TypeScript, Node.js, JWT  
 [➡️ Репозиторий](#) | [🌍 Демо](#)
@@ -43,6 +49,7 @@
 ---
 
 ### 📊 GitHub статистика
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIMER5&show_icons=true&theme=radical" alt="stats" />
   <br/>
@@ -52,9 +59,11 @@
 ---
 
 ### 🐍 Анимация активности
+
 ![Snake animation](https://github.com/VIMER/VIMER/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📬 Контакты
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
