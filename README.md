@@ -17,6 +17,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql" />
+
   <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" />
   <br/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
