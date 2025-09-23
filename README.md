@@ -14,12 +14,19 @@
 ### 🛠️ Стек технологий
 
 **Основное (Core stack):**
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
 <p>
 
-  <a href="https://vuejs.org/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=vue" />
+  <a href="" target="_blank" style="text-decoration: none;">
+    <img src="" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=ts" />
