@@ -56,6 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VIMER5&show_icons=true&theme=radical" alt="stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&layout=compact&theme=radical" alt="langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vimer5&locale=ru&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </p>
 
 ---
