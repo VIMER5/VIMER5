@@ -47,7 +47,7 @@
 
 ### 📊 GitHub статистика
 
-![#](https://github-readme-stats.vercel.app/api?username=VIMER5&locale=ru&show_icons=true&theme=transparent)
+![#](https://github-readme-stats.vercel.app/api?username=VIMER5&locale=ru&rank_icon=github&show_icons=true&theme=transparent)
 
 ![#](https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&count_private=true&show_icons=true&theme=transparent)
 
