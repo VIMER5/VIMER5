@@ -36,7 +36,7 @@
 
 #### 🔹 Domus
 
-Системы по управлению умным домам.  
+Система по управлению умным домом.  
 **Стек:** Vue, TypeScript, Node.js, JWT, MQTT, sequelize
 
 [![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=Domus-server&theme=transparent)](https://github.com/VIMER5/Domus-server)
