@@ -11,10 +11,16 @@
 ---
 
 ### 🛠️ Стек технологий
-<p align="left">
+**Основное (Core stack):**
+<p>
   <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=sequelize,jwt" />
 </p>
 
+**Дополнительно (Tools & Others):**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,postman" />
+</p>
 ---
 
 ### 🌟 Избранные проекты
