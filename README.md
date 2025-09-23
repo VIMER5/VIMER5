@@ -15,6 +15,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql" />
   <img src="https://skillicons.dev/icons?i=sequelize,JWT" />
+  <br/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/bcryptjs-orange?style=for-the-badge" />
 </p>
 
 **Дополнительно (Tools & Others):**
