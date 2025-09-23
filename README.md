@@ -16,18 +16,14 @@
 **Основное (Core stack):**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,mysql,sequelize" />
   <img src="assets/icons/Jsonwebtokens.svg" width="48" height="48" />
-  <br/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/bcryptjs-orange?style=for-the-badge" />
 </p>
 
 **Дополнительно (Tools & Others):**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,insomnia" />
 </p>
 ---
 
