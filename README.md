@@ -35,9 +35,9 @@
 
 ### 📊 GitHub статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIMER&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VIMER5&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
