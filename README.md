@@ -13,7 +13,7 @@
 
 ### 🛠️ Стек технологий
 
-**Основное (Core stack):**<br>
+**Основное (Core stack):**<br><br>
 [![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![JS](https://skillicons.dev/icons?i=js)](https://learn.javascript.ru/)
