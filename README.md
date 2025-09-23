@@ -36,9 +36,7 @@
 
 #### 🔹 Rehub
 
-Многофункциональная веб-платформа.  
-**Стек:** Vue, Node.js, Express, Sequelize, MySQL  
-[➡️ Репозиторий](#) | [🌍 Демо](#)
+[![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=ReHub)](https://github.com/VIMER5/ReHub)
 
 ---
 
@@ -52,18 +50,19 @@
 
 ### 📊 GitHub статистика
 
+<!-- [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka) -->
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vimer5&locale=ru&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-  <br/>
+  <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="langs" />
 
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=VIMER5&locale=ru&theme=juicyfresh&no-bg=true" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=VIMER5&locale=ru&theme=juicyfresh&no-bg=true" /> -->
 </p>
 
 ---
 
-### 🐍 Анимация активности
+### 🐍
 
 ![Snake animation](https://github.com/VIMER5/VIMER5/blob/output/github-contribution-grid-snake-dark.svg)
 
