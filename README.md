@@ -32,33 +32,34 @@
 
 ---
 
-### 🌟 Избранные проекты
-
-#### 🔹 Rehub
-
-[![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=ReHub)](https://github.com/VIMER5/ReHub)
-
----
+### 🌟 Проекты в разработке
 
 #### 🔹 Domus
 
-Сервис для управления недвижимостью.  
-**Стек:** Vue, TypeScript, Node.js, JWT  
-[➡️ Репозиторий](#) | [🌍 Демо](#)
+Системы по управлению умным домам.  
+**Стек:** Vue, TypeScript, Node.js, JWT, MQTT, sequelize
+
+[![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=Domus-server&theme=transparent)](https://github.com/VIMER5/Domus-server)
+
+[![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=Domus-Frontend&theme=transparent)](https://github.com/VIMER5/Domus-Frontend)
 
 ---
 
 ### 📊 GitHub статистика
 
-<!-- [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka) -->
+![#](https://github-readme-stats.vercel.app/api?username=VIMER5&locale=ru&show_icons=true&theme=transparent)
 
-<p align="center">
+![#](https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&count_private=true&show_icons=true&theme=transparent)
+
+<!-- <p align="center">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vimer5&locale=ru&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-  <br />
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&layout=compact&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="langs" />
 
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=VIMER5&locale=ru&theme=juicyfresh&no-bg=true" /> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VIMER5&locale=ru&theme=juicyfresh&no-bg=true" />
 </p>
+ -->
 
 ---
 
