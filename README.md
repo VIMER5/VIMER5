@@ -50,6 +50,9 @@
 
 [![modGTAV_RageMP](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=modGTAV_RageMP&theme=transparent)](https://github.com/VIMER5/modGTAV_RageMP)
 
+[![modGTAV_RageMP](https://contrib.rocks/image?repo=modGTAV_RageMP/simple-sqlite)](https://github.com/VIMER5/modGTAV_RageMP)
+
+
 ---
 
 ### 📊 GitHub статистика
