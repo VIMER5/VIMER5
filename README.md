@@ -46,7 +46,7 @@
 #### 🔹 modGTAV_RageMP
 
 Мод на GTA V RageMP  
-**Стек:** Vue, TypeScript, 
+**Стек:** Vue, TypeScript, JS
 
 [![modGTAV_RageMP](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=modGTAV_RageMP&theme=transparent)](https://github.com/VIMER5/modGTAV_RageMP)
 
