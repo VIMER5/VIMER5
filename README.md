@@ -48,9 +48,9 @@
 Мод на GTA V RageMP  
 **Стек:** Vue, TypeScript, JS
 
-[![modGTAV_RageMP](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=modGTAV_RageMP&theme=transparent)](https://github.com/VIMER5/modGTAV_RageMP)
+[![modGTAV_RageMP](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=modGTAV_RageMP&theme=transparent)](https://github.com/VIMER5/modGTAV_RageMP) 
 
-[![modGTAV_RageMP](https://contrib.rocks/image?repo=modGTAV_RageMP/simple-sqlite)](https://github.com/VIMER5/modGTAV_RageMP)
+<!-- [![modGTAV_RageMP](https://contrib.rocks/image?repo=modGTAV_RageMP/simple-sqlite)](https://github.com/VIMER5/modGTAV_RageMP) -->
 
 
 ---
@@ -59,7 +59,7 @@
 
 ![#](https://github-readme-stats.vercel.app/api?username=VIMER5&locale=ru&rank_icon=github&show_icons=true&theme=transparent)
 
-<!-- ![#](https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&count_private=true&show_icons=true&theme=transparent) -->
+![#](https://github-readme-stats.vercel.app/api/top-langs/?username=VIMER5&locale=ru&count_private=true&show_icons=true&theme=transparent) 
 
 <!-- <p align="center">
 
