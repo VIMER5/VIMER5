@@ -15,6 +15,8 @@
 
 **Основное (Core stack):**<br><br>
 [![VUE](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![pinia](https://skillicons.dev/icons?i=pinia)](https://pinia.vuejs.org/)
+[![tailwindcss](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![JS](https://skillicons.dev/icons?i=js)](https://learn.javascript.ru/)
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
@@ -22,6 +24,7 @@
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![sequelize](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org)
 [![JWT](assets/icons/Jsonwebtokens.svg)](https://www.jwt.io/)
+
 
 **Дополнительно (Tools & Others):**<br><br>
 [![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
