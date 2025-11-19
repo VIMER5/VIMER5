@@ -46,8 +46,8 @@
 
 [![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=Domus-Frontend&theme=transparent)](https://github.com/VIMER5/Domus-Frontend)
 
-#### 🔹 modGTAV_RageMP
-<!--
+<!--#### 🔹 modGTAV_RageMP
+
 Мод на GTA V RageMP  
 **Стек:** Vue, TypeScript, JS
 
