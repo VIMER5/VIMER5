@@ -43,15 +43,18 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![Pinia](https://skillicons.dev/icons?i=pinia)](https://pinia.vuejs.org/)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 
 **Backend:**  
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![JWT](assets/icons/Jsonwebtokens.svg)](https://jwt.io/)
+[![Socket.io](https://skillicons.dev/icons?i=socketio)](https://socket.io/)
 
 **Базы данных:**  
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 
 **Инструменты:**  
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
@@ -59,6 +62,9 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Insomnia](assets/icons/Insomnia.svg)](https://insomnia.rest/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io/)
 
 ### 🌟 Проекты в разработке
 
