@@ -68,29 +68,6 @@ Full-stack разработчик | Vue 3 & Node.js
 [![postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) -->
 
----
-
-
-### 🌟 Проекты в разработке
-
-#### 🔹 Domus
-
-Система по управлению умным домом.  
-**Стек:** Vue, TypeScript, Node.js, JWT, MQTT, sequelize
-
-[![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=Domus-server&theme=transparent)](https://github.com/VIMER5/Domus-server)
-
-[![Rehub](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=Domus-Frontend&theme=transparent)](https://github.com/VIMER5/Domus-Frontend)
-
-<!--#### 🔹 modGTAV_RageMP
-
-Мод на GTA V RageMP  
-**Стек:** Vue, TypeScript, JS
-
-[![modGTAV_RageMP](https://github-readme-stats.vercel.app/api/pin/?username=VIMER5&repo=modGTAV_RageMP&theme=transparent)](https://github.com/VIMER5/modGTAV_RageMP) 
-
-[![modGTAV_RageMP](https://contrib.rocks/image?repo=VIMER5/modGTAV_RageMP)](https://github.com/VIMER5/modGTAV_RageMP) -->
-
 
 ---
 
